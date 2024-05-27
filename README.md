@@ -2,8 +2,6 @@
 
 
 
-. 👨‍💼 Açoforja Industria de Forjados S/A
-
 . 👨‍💻Apaixonado por desenvolvimento web
 
 . 🖥️Atualmente focado em: 
