@@ -2,7 +2,7 @@
 
 
 
-. 👨‍💻Apaixonado por desenvolvimento web
+. 👨‍💻Desenvolvimento RPA
 
 . 🖥️Atualmente focado em: 
 
