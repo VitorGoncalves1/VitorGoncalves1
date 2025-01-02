@@ -2,7 +2,7 @@
 
 
 
-. 👨‍💻Desenvolvimento RPA Python (Selenium)
+. 👨‍💻Desenvolvedor RPA Python (Selenium)
 
 . 🖥️Atualmente focado em: 
 
